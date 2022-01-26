@@ -1,11 +1,14 @@
-###Hi bros
+<div>
+    <img src="https://img.shields.io/badge/Blob-FFFFFF?style=round-square&logo=Storyblok&logoColor=09B3AF&labelColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=round-square&logo=Gmail&logoColor=EA4335&labelColor=FFFFFF"/>
+</div>
+
+Hi bros
 
 
 This repo will be upload some functions, projects about FE or BE
 
-Or, you can ask to me some question. (or any help)
-(<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=round-square&logo=Gmail&logoColor=EA4335&labelColor=FFFFFF" style="marginTop: 10px"/> hasadev92@gmail.com)
-
+Or, you can ask to me some questions or any help (Gmail: hasadev92@gmail.com)
 But you should understand that I'm lazy and wait
 
 

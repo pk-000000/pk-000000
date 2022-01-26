@@ -11,7 +11,7 @@ Below is my skils of dev
 Back-end
 
 <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=round-square&logo=Node.js&logoColor=339933&labelColor=black"/>
-<img src="https://img.shields.io/badge/Express-FFFFFF?style=round-square&logo=Express&logoColor=000000&labelColor=black"/>
+<img src="https://img.shields.io/badge/Express-FFFFFF?style=round-square&logo=Express&logoColor=FFFFFF&labelColor=black"/>
 
 Front-end
 

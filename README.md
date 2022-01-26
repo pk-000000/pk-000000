@@ -4,7 +4,7 @@
 This repo will be upload some functions, projects about FE or BE
 
 Or, you can ask to me some question. (or any help)
-(<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=round-square&logo=Gmail&logoColor=EA4335&labelColor=FFFFFF" style="marginTop: 2px"/> hasadev92@gmail.com)
+(<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=round-square&logo=Gmail&logoColor=EA4335&labelColor=FFFFFF" style="marginTop: 10px"/> hasadev92@gmail.com)
 
 But you should understand that I'm lazy and wait
 

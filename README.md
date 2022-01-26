@@ -1,9 +1,10 @@
-Hi bros
-<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=round-square&logo=Gmail&logoColor=EA4335&labelColor=black"/> hasadev92@gmail.com
+###Hi bros
+
 
 This repo will be upload some functions, projects about FE or BE
 
 Or, you can ask to me some question. (or any help)
+(<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=round-square&logo=Gmail&logoColor=EA4335&labelColor=black"/> hasadev92@gmail.com)
 
 But you should understand that I'm lazy and wait
 

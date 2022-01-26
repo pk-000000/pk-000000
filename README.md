@@ -4,7 +4,7 @@
 <p>
     <a target="_blank" href="https://velog.io/@dev__sana"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=round-square&logo=Storyblok&logoColor=09B3AF&labelColor=FFFFFF"/></a>
     <a target="_blank" href="#"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=round-square&logo=Gmail&logoColor=EA4335&labelColor=FFFFFF"/></a>
-</p><br />
+</p>
 
 ### Hi bros
 

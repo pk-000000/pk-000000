@@ -3,7 +3,7 @@
 
 <p>
     <a target="_blank" href="https://velog.io/@dev__sana"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=round-square&logo=Storyblok&logoColor=09B3AF&labelColor=FFFFFF"/></a>
-    <a target="_blank" href="#"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=round-square&logo=Gmail&logoColor=EA4335&labelColor=FFFFFF"/></a>
+    <a target="_blank" href="#" class="tooltip"><span class="tooltiptext">hasadev92@gmail.com</span><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=round-square&logo=Gmail&logoColor=EA4335&labelColor=FFFFFF"/></a>
 </p>
 
 ### Hi bros
@@ -11,7 +11,7 @@
 
 ##### This repo will be upload some functions, projects about FE or BE
 
-##### Or, you can ask to me some questions or any help (Gmail: hasadev92@gmail.com)
+##### Or, you can ask to me some questions or any help (at here or my email address)
 
 ##### At my blog will be write some skills studied
 
@@ -47,3 +47,29 @@
     <img src="https://img.shields.io/badge/Git-FFFFFF?style=round-square&logo=Git&logoColor=F05032&labelColor=black"/>
     <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=round-square&logo=MySQL&logoColor=4479A1&labelColor=black"/>
 </p>
+
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+</style>

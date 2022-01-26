@@ -10,10 +10,10 @@ Below is my skils of dev
 
 Back-end
 
-<img src="https://img.shields.io/badge/Node.js-FFFFFF?style=flat-square&logo=Node.js&logoColor=339933&labelColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-FFFFFF?style=round-square&logo=Node.js&logoColor=339933&labelColor=black"/>
 
 
 Front-end
 
-<img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React&logoColor=61DAFB&labelColor=black"/>
+<img src="https://img.shields.io/badge/React-FFFFFF?style=round-square&logo=React&logoColor=61DAFB&labelColor=black"/>
 

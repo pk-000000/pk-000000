@@ -13,6 +13,8 @@ This repo will be upload some functions, projects about FE or BE
 
 Or, you can ask to me some questions or any help (Gmail: hasadev92@gmail.com)
 
+At my blog will be write some skills studied
+
 But you should understand that I'm lazy and wait
 
 

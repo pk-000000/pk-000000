@@ -10,7 +10,7 @@ Below is my skils of dev
 
 Back-end
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=React&logoColor=black&labelColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black&labelColor=white"/>
 
 
 Front-end

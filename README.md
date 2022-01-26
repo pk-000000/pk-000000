@@ -1,7 +1,5 @@
 Hi bros
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-000000&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
 
 This repo will be upload some functions, projects about FE or BE
 
@@ -39,3 +37,5 @@ ETC
     <img src="https://img.shields.io/badge/Git-FFFFFF?style=round-square&logo=Git&logoColor=F05032&labelColor=black"/>
     <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=round-square&logo=MySQL&logoColor=4479A1&labelColor=black"/>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-000000&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)

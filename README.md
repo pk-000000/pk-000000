@@ -12,8 +12,9 @@ Platform & Languages
 
 Languages
 <div>
-    <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=round-square&logo=JavaScript&logoColor=F7DF1E&labelColor=black"/>
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=round-square&logo=JavaScript&logoColor=F7DF1E&labelColor=black"/>
     <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=round-square&logo=TypeScript&logoColor=3178C6&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Dart-FFFFFF?style=round-square&logo=Dart&logoColor=0175C2&labelColor=black"/>
 </div><br />
 
 Back-end

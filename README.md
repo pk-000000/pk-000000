@@ -6,7 +6,7 @@ Or, you can ask to me some question. (or any help)
 
 But you should understand that I'm lazy and wait
 
-Below is my skils of dev
+Below is my skils for dev
 
 Platform & Languages
 
@@ -30,3 +30,10 @@ Front-end
     <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=round-square&logo=Vue.js&logoColor=4FC08D&labelColor=black"/>
     <img src="https://img.shields.io/badge/Flutter-FFFFFF?style=round-square&logo=Flutter&logoColor=02569B&labelColor=black"/>
 </div><br />
+
+ETC
+<div>
+    <img src="https://img.shields.io/badge/Amazon AWS-FFFFFF?style=round-square&logo=Amazon AWS&logoColor=61DAFB&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Git-FFFFFF?style=round-square&logo=Git&logoColor=F05032&labelColor=black"/>
+    <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=round-square&logo=MySQL&logoColor=4479A1&labelColor=black"/>
+</div>

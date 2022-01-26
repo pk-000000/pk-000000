@@ -4,7 +4,7 @@
 <div>
     <img src="https://img.shields.io/badge/Blog-FFFFFF?style=round-square&logo=Storyblok&logoColor=09B3AF&labelColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=round-square&logo=Gmail&logoColor=EA4335&labelColor=FFFFFF"/>
-</div>
+</div><br />
 
 Hi bros
 

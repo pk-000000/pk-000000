@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-000000&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
+<link rel="stylesheet" type="text/css" href="./style.css">
 
 <p>
     <a target="_blank" href="https://velog.io/@dev__sana"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=round-square&logo=Storyblok&logoColor=09B3AF&labelColor=FFFFFF"/></a>
@@ -48,28 +48,4 @@
     <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=round-square&logo=MySQL&logoColor=4479A1&labelColor=black"/>
 </p>
 
-<style>
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-}
 
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-
-  /* Position the tooltip */
-  position: absolute;
-  z-index: 1;
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
-</style>

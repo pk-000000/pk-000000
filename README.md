@@ -27,4 +27,5 @@ Front-end
 <div>
     <img src="https://img.shields.io/badge/React-FFFFFF?style=round-square&logo=React&logoColor=61DAFB&labelColor=black"/>
     <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=round-square&logo=Vue.js&logoColor=4FC08D&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Flutter-FFFFFF?style=round-square&logo=Flutter&logoColor=02569B&labelColor=black"/>
 </div><br />

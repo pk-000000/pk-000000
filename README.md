@@ -1,5 +1,5 @@
 Hi bros
-
+<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=round-square&logo=Gmail&logoColor=EA4335&labelColor=black"/> hasadev92@gmail.com
 
 This repo will be upload some functions, projects about FE or BE
 

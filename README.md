@@ -1,9 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-000000&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-<link rel="stylesheet" type="text/css" href="./style.css">
 
 <p>
     <a target="_blank" href="https://velog.io/@dev__sana"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=round-square&logo=Storyblok&logoColor=09B3AF&labelColor=FFFFFF"/></a>
-    <a target="_blank" href="#" class="tooltip"><span class="tooltiptext">hasadev92@gmail.com</span><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=round-square&logo=Gmail&logoColor=EA4335&labelColor=FFFFFF"/></a>
+    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=round-square&logo=Gmail&logoColor=EA4335&labelColor=FFFFFF"/>
 </p>
 
 ### Hi bros
@@ -11,7 +10,7 @@
 
 ##### This repo will be upload some functions, projects about FE or BE
 
-##### Or, you can ask to me some questions or any help (at here or my email address)
+##### Or, you can ask to me some questions or any help (at here or my email address - hasadev92@gmail.com)
 
 ##### At my blog will be write some skills studied
 

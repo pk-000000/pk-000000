@@ -12,11 +12,14 @@ Platform & Languages
 
 Back-end
 
-<img src="https://img.shields.io/badge/Node.js-FFFFFF?style=round-square&logo=Node.js&logoColor=339933&labelColor=black" style="float:left"/>
-<img src="https://img.shields.io/badge/Express-FFFFFF?style=round-square&logo=Express&logoColor=FFFFFF&labelColor=black" style="float:left"/>
+<div>
+    <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=round-square&logo=Node.js&logoColor=339933&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Express-FFFFFF?style=round-square&logo=Express&logoColor=FFFFFF&labelColor=black"/>
+</div>
 
 Front-end
 
-<div >
-<img src="https://img.shields.io/badge/React-FFFFFF?style=round-square&logo=React&logoColor=61DAFB&labelColor=black" style="float:left"/>
-<img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=round-square&logo=Vue.js&logoColor=4FC08D&labelColor=black" style="float:left"/>
+<div>
+    <img src="https://img.shields.io/badge/React-FFFFFF?style=round-square&logo=React&logoColor=61DAFB&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=round-square&logo=Vue.js&logoColor=4FC08D&labelColor=black"/>
+</div>

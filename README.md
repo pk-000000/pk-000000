@@ -21,6 +21,7 @@ Back-end
 <div>
     <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=round-square&logo=Node.js&logoColor=339933&labelColor=black"/>
     <img src="https://img.shields.io/badge/Express-FFFFFF?style=round-square&logo=Express&logoColor=FFFFFF&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Koa-FFFFFF?style=round-square&logo=Koa&logoColor=FFFFFF&labelColor=black"/>
 </div><br />
 
 Front-end

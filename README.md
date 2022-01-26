@@ -1,14 +1,16 @@
 Hi bros
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-0000000)](https://github.com/anuraghazra/github-readme-stats)
+
+
 This repo will be upload some functions, projects about FE or BE
 
 Or, you can ask to me some question. (or any help)
 
 But you should understand that I'm lazy and wait
 
-Below is my skils for dev
 
-Platform & Languages
+Below is my skils for dev
 
 Languages
 <div>
